@@ -9,6 +9,6 @@ In the summer and fall of 2019, NASA and NOAA flew the FIREX-AQ campaign to coll
 Given that extreme high-temperature events could produce high radiance signals within the SWIR according to Planck’s function, this presents a unique opportunity to explore the SWIR portion of the spectrum for quantifying FRP.
 
 <b> Research Objectives </b>
-Compare the non-traditional 2.38 μm band radiance between MASTER, eMAS, and AVIRIS
-Compare FRP at 2.38 μm for all three sensors and the traditional 4.06 μm  band with MASTER
-An area by area comparison between all three sensors
+<li> Compare the non-traditional 2.38 μm band radiance between MASTER, eMAS, and AVIRIS </li>
+<li> Compare FRP at 2.38 μm for all three sensors and the traditional 4.06 μm  band with MASTER </li>
+<li> An area by area comparison between all three sensors </li>
